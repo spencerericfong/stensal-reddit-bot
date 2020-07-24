@@ -1,0 +1,95 @@
+23:25:19 Logging into reddit...
+23:25:19 Successfully logged in!
+-------------------------------------
+23:25:19 Accessing subreddits to monitor...
+23:25:19 Successfully accessed subreddits!
+-------------------------------------
+23:25:19 Accessing subreddit to post to...
+23:25:19 Successfully accessed subreddit!
+-------------------------------------
+23:25:19 Filtering out submissions...
+23:25:22 Successfully retrieved submissions!
+
+Relevant Submissions:
+-------------------------------------
+	1. Speller Help
+	https://www.reddit.com/r/cs50/comments/g9fnit/speller_help/
+-------------------------------------
+	2. Pset 5 Speller - Identifying correct words as misspelled
+	https://www.reddit.com/r/cs50/comments/g8ykev/pset_5_speller_identifying_correct_words_as/
+-------------------------------------
+	3. CS50 Psets 1 huge difficulty solving problems-- new to coding
+	https://www.reddit.com/r/C_Programming/comments/g7moph/cs50_psets_1_huge_difficulty_solving_problems_new/
+-------------------------------------
+
+23:25:22 Posting submissions...
+23:25:23 Successfully finished posting!
+-------------------------------------
+23:25:23 Finished running script, now exiting...
+
+
+23:26:02 Logging into reddit...
+23:26:02 Successfully logged in!
+-------------------------------------
+23:26:02 Accessing subreddits to monitor...
+23:26:02 Successfully accessed subreddits!
+-------------------------------------
+23:26:02 Accessing subreddit to post to...
+23:26:02 Successfully accessed subreddit!
+-------------------------------------
+23:26:02 Filtering out submissions...
+23:26:04 Successfully retrieved submissions!
+
+Relevant Submissions:
+-------------------------------------
+	1. Speller Help
+	https://www.reddit.com/r/cs50/comments/g9fnit/speller_help/
+-------------------------------------
+	2. Pset 5 Speller - Identifying correct words as misspelled
+	https://www.reddit.com/r/cs50/comments/g8ykev/pset_5_speller_identifying_correct_words_as/
+-------------------------------------
+	3. CS50 Psets 1 huge difficulty solving problems-- new to coding
+	https://www.reddit.com/r/C_Programming/comments/g7moph/cs50_psets_1_huge_difficulty_solving_problems_new/
+-------------------------------------
+
+23:26:04 Posting submissions...
+	1. This url has already been submitted, skipping...
+	2. This url has already been submitted, skipping...
+	3. This url has already been submitted, skipping...
+23:26:05 Successfully finished posting!
+-------------------------------------
+23:26:05 Finished running script, now exiting...
+
+
+23:26:34 Logging into reddit...
+23:26:34 Successfully logged in!
+-------------------------------------
+23:26:34 Accessing subreddits to monitor...
+23:26:34 Successfully accessed subreddits!
+-------------------------------------
+23:26:34 Accessing subreddit to post to...
+23:26:34 Successfully accessed subreddit!
+-------------------------------------
+23:26:34 Filtering out submissions...
+23:26:36 Successfully retrieved submissions!
+
+Relevant Submissions:
+-------------------------------------
+	1. Speller Help
+	https://www.reddit.com/r/cs50/comments/g9fnit/speller_help/
+-------------------------------------
+	2. Pset 5 Speller - Identifying correct words as misspelled
+	https://www.reddit.com/r/cs50/comments/g8ykev/pset_5_speller_identifying_correct_words_as/
+-------------------------------------
+	3. CS50 Psets 1 huge difficulty solving problems-- new to coding
+	https://www.reddit.com/r/C_Programming/comments/g7moph/cs50_psets_1_huge_difficulty_solving_problems_new/
+-------------------------------------
+
+23:26:36 Posting submissions...
+	1. This url has already been submitted, skipping...
+	3. This url has already been submitted, skipping...
+23:26:37 Successfully finished posting!
+-------------------------------------
+23:26:37 Finished running script, now exiting...
+
+
